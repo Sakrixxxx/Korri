@@ -1,5 +1,3 @@
-http://de221.diestaemmekarte.de/653963f860a74
-
 // ==UserScript==
 // @name         Map sdk
 // @version      0.3
@@ -8,21 +6,20 @@ http://de221.diestaemmekarte.de/653963f860a74
 // @match        https://de221.die-staemme.de/game.php?village=*screen=map*
 // @grant        none
 // ==/UserScript==
-$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(function() {MapSdk.lines.push({x1: 490,y1: 395,x2: 490,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 509,y1: 395,x2: 509,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 480,y1: 395,x2: 480,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 470,y1: 395,x2: 470,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 460,y1: 395,x2: 460,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 450,y1: 395,x2: 450,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 519,y1: 395,x2: 519,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 529,y1: 395,x2: 529,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 539,y1: 395,x2: 539,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 549,y1: 395,x2: 549,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 559,y1: 395,x2: 559,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 440,y1: 395,x2: 440,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 430,y1: 395,x2: 430,y2: 409,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 2},mini: {"strokeStyle": "yellow","lineWidth": 2}},drawOnMini: true,drawOnMap: true,});
+$.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(function() {MapSdk.lines.push({x1: 489.5, y1: 394.5, x2: 489.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 509.5, y1: 395.5, x2: 509.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 479.5, y1: 394.5, x2: 479.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 469.5, y1: 394.5, x2: 469.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 459.5, y1: 394.5, x2: 459.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 449.5, y1: 394.5, x2: 449.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 519.5, y1: 395.5, x2: 519.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 529.5, y1: 395.5, x2: 529.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 539.5, y1: 395.5, x2: 539.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 549.5, y1: 395.5, x2: 549.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 559.5, y1: 395.5, x2: 559.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 439.5, y1: 394.5, x2: 439.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 429.5, y1: 394.5, x2: 429.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.mapOverlay.reload();});
-
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
