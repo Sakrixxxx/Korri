@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name         Map sdk
 // @version      0.3
@@ -181,9 +180,9 @@ MapSdk.lines.push({x1: 524.5, y1: 445.5, x2: 524.5, y2: 499.5, styling: {main: {
 MapSdk.lines.push({x1: 524.5, y1: 444.5, x2: 524.5, y2: 446.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 534, y1: 444, x2: 539, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 549, y1: 444, x2: 554, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 559, y1: 444, x2: 564, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 574, y1: 444, x2: 589, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 589, y1: 444, x2: 619, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 289.5, y1: 498.5, x2: 289.5, y2: 440.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 269.5, y1: 448.5, x2: 269.5, y2: 497.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 559, y1: 444, x2: 569, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 574, y1: 444, x2: 594, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 589, y1: 444, x2: 624, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.mapOverlay.reload();});
