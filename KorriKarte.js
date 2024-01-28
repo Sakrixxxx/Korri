@@ -10,8 +10,6 @@ $.getScript("https://shinko-to-kuma.com/scripts/mapSdk.js").done(function() {Map
 MapSdk.lines.push({x1: 509.5, y1: 395.5, x2: 509.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 479.5, y1: 394.5, x2: 479.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 469.5, y1: 394.5, x2: 469.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 459.5, y1: 394.5, x2: 459.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 449.5, y1: 394.5, x2: 449.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 519.5, y1: 395.5, x2: 519.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 529.5, y1: 395.5, x2: 529.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 539.5, y1: 395.5, x2: 539.5, y2: 409.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
@@ -47,8 +45,6 @@ MapSdk.lines.push({x1: 539, y1: 409, x2: 549, y2: 444, styling: {main: {"strokeS
 MapSdk.lines.push({x1: 549, y1: 409, x2: 559, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 480, y1: 409, x2: 475, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 470, y1: 409, x2: 465, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 460, y1: 409, x2: 450, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 450, y1: 409, x2: 440, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 440, y1: 409, x2: 430, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 430, y1: 409, x2: 415, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 549, y1: 370, x2: 565, y2: 340, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
@@ -85,8 +81,6 @@ MapSdk.lines.push({x1: 479.5, y1: 389.5, x2: 479.5, y2: 394.5, styling: {main: {
 MapSdk.lines.push({x1: 479.5, y1: 384.5, x2: 479.5, y2: 389.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 480, y1: 385, x2: 485, y2: 379, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 469.5, y1: 378.5, x2: 469.5, y2: 394.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 459.5, y1: 378.5, x2: 459.5, y2: 394.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 449.5, y1: 378.5, x2: 449.5, y2: 394.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 439.5, y1: 378.5, x2: 439.5, y2: 394.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 429.5, y1: 378.5, x2: 429.5, y2: 394.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 419.5, y1: 378.5, x2: 419.5, y2: 394.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
@@ -101,8 +95,6 @@ MapSdk.lines.push({x1: 489.5, y1: 443.5, x2: 489.5, y2: 468.5, styling: {main: {
 MapSdk.lines.push({x1: 475, y1: 444, x2: 465, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 465, y1: 444, x2: 454, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 509.5, y1: 444.5, x2: 509.5, y2: 469.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 450, y1: 444, x2: 434, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 440, y1: 444, x2: 424, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 430, y1: 444, x2: 414, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 415, y1: 444, x2: 394, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 400, y1: 444, x2: 379, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
@@ -224,10 +216,13 @@ MapSdk.lines.push({x1: 752, y1: 440, x2: 719, y2: 440, styling: {main: {"strokeS
 MapSdk.lines.push({x1: 752, y1: 440, x2: 784, y2: 449, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 459.5, y1: 498.5, x2: 459.5, y2: 533.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 449.5, y1: 498.5, x2: 449.5, y2: 533.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 429.5, y1: 498.5, x2: 429.5, y2: 533.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 419.5, y1: 498.5, x2: 419.5, y2: 533.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 420, y1: 499, x2: 424, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
-MapSdk.lines.push({x1: 430, y1: 499, x2: 434, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 450, y1: 499, x2: 454, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 460, y1: 499, x2: 465, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 454.5, y1: 379.5, x2: 454.5, y2: 408.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 455, y1: 409, x2: 445, y2: 444, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 445, y1: 444, x2: 430, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 430, y1: 469, x2: 425, y2: 499, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 424.5, y1: 498.5, x2: 424.5, y2: 533.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 460, y1: 379, x2: 455, y2: 379, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 454.5, y1: 378.5, x2: 454.5, y2: 380.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.mapOverlay.reload();});
