@@ -229,4 +229,5 @@ MapSdk.lines.push({x1: 239.5, y1: 469.5, x2: 239.5, y2: 459.5, styling: {main: {
 MapSdk.lines.push({x1: 239, y1: 460, x2: 210, y2: 469, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 554.5, y1: 215.5, x2: 554.5, y2: 279.5, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.lines.push({x1: 554, y1: 279, x2: 552, y2: 299, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
+MapSdk.lines.push({x1: 240, y1: 444, x2: 204, y2: 455, styling: {main: {"strokeStyle": "#FFFF00","lineWidth": 2}, mini: {"strokeStyle": "yellow","lineWidth": 2}}, drawOnMini: true, drawOnMap: true});
 MapSdk.mapOverlay.reload();});
